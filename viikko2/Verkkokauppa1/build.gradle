@@ -22,3 +22,5 @@ mainClassName = 'ohtu.Main'
 run {
     standardInput = System.in
 }
+
+apply plugin: "jacoco" 
