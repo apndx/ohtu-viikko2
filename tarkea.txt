@@ -2,4 +2,6 @@ Tiedoston alkuun tuleekin masterista aivan erityisen tärkeää sisältöä.
 Tässä tiedostossa on todella tärkeää sisältöä.
 Toka-branchin kautta lisäämme tiedostoon vielä tärkeämpia asioita.
 Konfliktinhakuinen tärkeysasia.
-Masterista jälleen jatkamme tärkeyden äärellä.
+Masterista jälleen jatkamme tärkeyden äärellä
+
+viikko 4, tehtävä 8 -stasharjoittelua.
