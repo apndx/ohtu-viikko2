@@ -1,2 +1,4 @@
 viikko4, t.8
 ollessasi master-branchissa tee branchissa oleviin tietdostoihin muutoksia, joita lisäät staging-alueelle
+
+tehdään muutoksia haaraan - vk 5 6. Git: rebase [versionhallinta]
