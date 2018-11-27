@@ -1,3 +1,4 @@
 viikko5, tehtävä 3: tee jotain muutoksia johonkin tiedostoon ja committaa
 
 tehdään muutoksia haaraan - vk5 6. Git: rebase [versionhallinta]
+lisää muutoksia
