@@ -3,4 +3,4 @@ mene toisen kopion master-haaraan ja tee sinne joku muutos
 viikko 4 - tehtävä 8 - git:stash: 
 ollessasi master-branchissa tee branchissa oleviin tietdostoihin muutoksia, joita lisäät staging-alueelle ja joitain muutoksia joita et vielä "äddää", komennon git status tuloksen tulee näyttää siis suunilleen seuraavalta;
 
-
+tehdään masterille committeja 6. Git: rebase [versionhallinta]
