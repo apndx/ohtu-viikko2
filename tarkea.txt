@@ -4,3 +4,4 @@ Toka-branchin kautta lisäämme tiedostoon vielä tärkeämpia asioita.
 Masterista jälleen jatkamme tärkeyden äärellä.
 
 Nyt on jälleen perustettu uusi haara, ja tehdään sinne muutoksia.
+viikko 5 -  5. git: branchin "siirtäminen" [versionhallinta]
